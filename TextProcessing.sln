@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextProcessing", "TextProcessing\TextProcessing.csproj", "{95DB4FF8-971E-4B88-9BE8-DCD685544A55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RVCUtilityLibrary", "RVCUtilityLibrary\RVCUtilityLibrary.csproj", "{764763F5-674E-4380-9707-1960EDBA81F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95DB4FF8-971E-4B88-9BE8-DCD685544A55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95DB4FF8-971E-4B88-9BE8-DCD685544A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95DB4FF8-971E-4B88-9BE8-DCD685544A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95DB4FF8-971E-4B88-9BE8-DCD685544A55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{764763F5-674E-4380-9707-1960EDBA81F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{764763F5-674E-4380-9707-1960EDBA81F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{764763F5-674E-4380-9707-1960EDBA81F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{764763F5-674E-4380-9707-1960EDBA81F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DF51CB6-330C-4640-A906-7219F121B84B}
+	EndGlobalSection
+EndGlobal
